@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ericoschmitt
-- 🧑‍💻 I currently work as Recruitment Consultant within IT for Coda Technology Services
-- 📫 How to reach me: [personal] ericoschmitt@yahoo.com.br or [work] ericoschmitt@codatechnology.net
+- 🧑‍💻 Learning to code.
+- 📫 How to reach me: ericoschmitt@yahoo.com.br 
